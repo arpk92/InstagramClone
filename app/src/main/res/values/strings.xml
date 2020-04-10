@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="title_home">Home</string>
+    <string name="Search">Search</string>
+    <string name="gallery">Gallery</string>
+    <string name="Heart">Heart</string>
+    <string name="Profile">Profile</string>
+    <string name="instagram">Instagram</string>
+    <string name="imagec">Camera</string>
+    <string name="textinsta">Instagram</string>
+    <string name="inagearrow">arrow</string>
+    <string name="Ali">Ali</string>
+    <string name="Abdulrehman">AbdulRehman</string>
+    <string name="instgramlogo">InstagramLogo</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Signup">Sign up</string>
+    <string name="account">Create a account ?</string>
+    <string name="post_number">36</string>
+    <string name="followers_number">1126</string>
+    <string name="following_number">20</string>
+    <string name="post">Post</string>
+    <string name="followers">Followers</string>
+    <string name="Following">Following</string>
+    <string name="EditProfile">Edit Profile</string>
+    <string name="Promotion">Promotion</string>
+    <string name="Options">Options</string>
+    <string name="Signout">Sign Out</string>
+    <string name="Photo">Photo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ali">Ali</string>
+</resources>
