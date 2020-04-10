@@ -16,3 +16,4 @@ Even though we titled this article “What Does it Take to Develop an Instagram 
 
 Many popular apps, like Photogrid, are exclusively photo editing tools that offer instant sharing to other social media apps. Let's say you are set on developing a photo-sharing app. Let’s take a look at our SWOT analysis of a typical photo-sharing app to get a better idea of the market you’re about to enter.
 
+![](Screenshot_20200410_192937_com.codepoison.instagramclone.jpg)
